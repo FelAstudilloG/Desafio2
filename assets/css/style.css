@@ -1,0 +1,36 @@
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+Geneva, Verdana, sans-serif;
+}
+header{
+    height: 10em;
+    padding: 5em;
+    font-size: 3em;
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    }
+    
+header h1{
+    
+margin: 0px; 
+color:goldenrod
+}
+header p{
+    margin: 0px; 
+    color:goldenrod
+}
+.contenido {
+ width: 80%;
+ margin: auto;
+}
+.contenido td{
+width: 50%;
+padding: 2em;
+}
+.contenido img{
+width: 100%;
+border: solid 1px #ddd;
+}
+                    
+            
